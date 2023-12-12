@@ -1,0 +1,12 @@
+﻿生成启动时间为 2023/12/11 14:26:24。
+     1>项目“c:\Users\ty123\documents\visual studio 2013\Projects\MyDriver3\MyDriver3\MyDriver3.vcxproj”在节点 2 上(Deploy 个目标)。
+     1>DriverTestSign:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\signtool.exe sign /ph /sha1 "87A1AAA16960621B4EDB9AB6823E67014E62C38D" 
+         Done Adding Additional Store
+         Successfully signed: c:\users\ty123\documents\visual studio 2013\Projects\MyDriver3\Win7Debug\MyDriver3.sys
+         
+     1>已完成生成项目“c:\Users\ty123\documents\visual studio 2013\Projects\MyDriver3\MyDriver3\MyDriver3.vcxproj”(Deploy 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.11
